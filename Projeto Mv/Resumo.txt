@@ -1,0 +1,5 @@
+Prezados,
+Informo que não consegui realizar os ajustes para o uso do banco Pl/Sql, tentei produzi o CRUD usando o SQL server ,porém, não consegui conexão,
+existe uma class de teste da conexão no código onde estava sendo ajustado o apontamento do db.
+Foi criado e desenvolvido o banco com uma procedure que seria usado no sistema, infelizmente tive setar os valores manualmente.
+O sistema não foi finalizado, porém foi enviando para análise de como poderia ficar o sistema proporcionado para desenvolvimento.
